@@ -1,0 +1,159 @@
+
+
+
+
+
+
+body {
+    background-color: #C6C0A0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
+
+
+aside{
+
+width: 10%;
+
+
+    
+
+}
+
+
+
+
+
+
+
+
+h2 {
+    color: #7D775C;
+    font-size: 1.9em;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+
+
+h3 {
+    color: #7d775c;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+
+li {
+line-height: 24px  ; 
+}
+
+
+table, p{
+color: black;
+}
+
+
+.green {
+    color: green;
+}
+
+
+#time {
+    color: red;
+    text-decoration: underline;
+    font-size: 1.8em;
+}
+
+
+
+
+
+
+#container {
+
+    border: solid;
+    background-color: white;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    box-shadow: 8px 8px 12px #aaa;
+    -moz-box-shadow: 8px 8px 12px #aaa;
+    -webkit-box-shadow: 8px 8px 12px #aaa;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+
+
+
+
+
+#menu {
+    margin: 0;
+    padding: 0;
+    font: bold 1em "georgia" ,verdana;
+    list-style-type: none;
+   }
+
+
+#menu a {
+    display: block;
+    margin: 5%;
+    color: #508768;
+    text-decoration: none;
+    line-height:2em;
+    width:80%;
+    border:1px solid blue;
+    background-color: #BDD7B5;
+    text-align: center;
+    box-shadow: 6px 6px 6px black;
+    border-radius: 6px;
+} 
+   
+
+
+#menu a:hover, #menu a:focus {
+color: #BDD7B5;
+
+
+
+
+
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
